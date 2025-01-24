@@ -1,0 +1,131 @@
+{
+    "footer": {
+      "connect": "Let's Connect With Fantasy Arena!",
+      "email": "Email",
+      "support": "support@fantasyarena.com",
+      "questions": "Questions Or Suggestions",
+      "follow": "Follow Us"
+    },
+    "navbar": {
+        "about": "About",
+        "feature": "Feature",
+        "subscription": "Subscription Benefits",
+        "signup": "Sign Up for Beta"
+      },
+   
+      "home": {
+    "beReady": "Be Ready",
+    "experience": "To Experience The Ultimate Fantasy Football Platform.",
+    "fromFantasyToVictory": "From Fantasy To Victory.",
+    "description": "From Fantasy To Victory — join leagues, build teams, and dominate the pitch with Fantasy Arena. Your dream team awaits!",
+    "signUpButton": "Sign up for our beta"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Fantasy Arena is proud to be a Saudi-born fantasy sports platform. Our mission is to bring football fans in the region closer to the game they love, by providing a fantasy experience tailored for our community. We combine intuitive gameplay with in-depth analytics to keep you engaged and excited all season long.",
+    "joinUs": "Join us on this journey as we build a platform built by fans, for fans—right here in the Kingdom of Saudi Arabia."
+  },
+  "features": {
+    "title": "Features",
+    "subtitle": "BE READY TO EXPERIENCE THE ULTIMATE SOCCER FANTASY PLATFORM",
+    "feature1": {
+      "title": "Diverse Scoring Systems",
+      "description": "Choose from various pre-set leagues with unique scoring systems—focus on goals, assists, or defensive stats to match your style."
+    },
+    "feature2": {
+      "title": "Public and Private Leagues",
+      "description": "Join public leagues to compete with the community or create private leagues to challenge friends and colleagues."
+    },
+    "feature3": {
+      "title": "Match Insights and Analytics",
+      "description": "Stay ahead with real-time stats, player insights, and performance updates to fine-tune your lineup throughout the season."
+    },
+    "button": "Sign up for our beta"
+  },
+  "mobileApp": {
+    "title": "Our Mobile App",
+    "description": "At Fantasy Arena, we are proud to be pioneers in bringing you the best experience as a soccer fan. With a dedicated and easy-to-use app, you can stay connected to the games you love, manage your team with ease, and enjoy all the thrills of the fantasy season."
+  },
+
+  "scoringSystem": {
+    "title1": "Fantasy Arena",
+    "title2": "Scoring Systems",
+    "description": "Welcome to Fantasy Arena, where strategy meets passion! We offer unique scoring systems tailored to different playing styles. Whether you're a fan of traditional scoring, love the thrill of assists, or value defensive excellence, our leagues have something for everyone. Explore the details below and pick the league type that suits you best.",
+    "stayUpdated": "Sign Up For Our Beta",
+    "signupButton": "Sign up for our beta",
+    "leagueInfo": "Assist League Scoring",
+    "actions": "Actions",
+    "points": "Points",
+    "actionsList": {
+      "goal": "Goal (Any Position)",
+      "assist": "Assist",
+      "keyPass": "Key Pass (Leads to Shot)",
+      "cleanSheetDefender": "Clean Sheet (Defender)",
+      "cleanSheetGoalkeeper": "Clean Sheet (Goalkeeper)",
+      "save": "Save (Goalkeeper)",
+      "yellowCard": "Yellow Card",
+      "redCard": "Red Card",
+      "penaltyMissed": "Penalty Missed",
+      "penaltySaved": "Penalty Saved",
+      "ownGoal": "Own Goal"
+    },
+    "pointsList": {
+      "goalPoints": "3",
+      "assistPoints": "6",
+      "keyPassPoints": "2",
+      "cleanSheetDefenderPoints": "3",
+      "cleanSheetGoalkeeperPoints": "4",
+      "savePoints": "1",
+      "yellowCardPoints": "-1",
+      "redCardPoints": "-3",
+      "penaltyMissedPoints": "-2",
+      "penaltySavedPoints": "4",
+      "ownGoalPoints": "-2"
+    }
+  },
+
+  
+
+"referral": {
+    "title": "Referral <span class='text-white'>Benefits</span>",
+    "earn_rewards": "Earn Free Tier Upgrades and Exciting Rewards.",
+    "button_text": "Sign up for our beta",
+    "invite_friends_title": "INVITE FRIENDS TO UNLOCK EXCLUSIVE BENEFITS",
+    "invite_friends": [
+      "3 Friends: Bronze Tier for 1 Month.",
+      "5 Friends: Silver Tier for 1 Month.",
+      "10 Friends: Gold Tier for 1 Month."
+    ],
+    "chance_to_win_title": "PLUS, STAND A CHANCE TO WIN",
+    "chance_to_win": [
+      "Gift Vouchers (e.g., Nike Store).",
+      "HungerStation Credits.",
+      "Luxury Hotel Staycations.",
+      "Exclusive Discounts on Future Features."
+    ]
+  },
+  "signup": {
+    "title": "Sign up",
+    "andStayUpdated": "and Stay Updated"
+  },
+
+  "form": {
+    "namePlaceholder": "Name",
+    "nameLabel": "Name",
+    "emailPlaceholder": "Email",
+    "emailLabel": "Email",
+    "birthdayPlaceholder": "Birthday",
+    "birthdayLabel": "Birthday",
+    "genderPlaceholder": "Male / Female",
+    "genderLabel": "Gender",
+    "receiveEmails": "I would like to receive newsletters.",
+    "submitButton": "Submit"
+  }
+
+  }
+  
+  
+  
+  
+    
+  

@@ -1,0 +1,46 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+/* Add slick-carousel styles */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+
+/* Parallelogram Shape with Gradient and Opacity */
+.clip-parallelogram-mirror {
+  background: linear-gradient(to bottom, rgb(16, 92, 36), rgba(90, 100, 0, 0)); /* Green to transparent */
+  clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 0% 85%); /* Creates mirrored parallelogram shape */
+  position: absolute;
+  top: 0; /* Start at the top of the screen */
+  right: 0; /* Start at the left of the screen */
+  
+  width: 50%; /* Full width */
+  height: 100%; /* Full height */
+  z-index: 0; /* Places it above the background but below content like navbar or buttons */
+  /* Adding inner shadow */
+  box-shadow: inset 15px 5px  20px 10px rgba(0, 0, 0, 0.5); /* Inner shadow */
+  -webkit-mask-image: -webkit-linear-gradient(bottom, rgba(0,0,0,0.5), rgba(0,0,0,0)); /* Ensure clipping is not hiding shadow */
+  mask-image: linear-gradient(bottom, rgba(0,0,0,0.5), rgba(0,0,0,0)); /* Same for other browsers */
+}
+
+
+body[dir='rtl'] {
+  direction: rtl;
+  text-align: right;
+}
+
+
+
+* {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  
+  
+html {
+    scroll-behavior: smooth;
+  }
+  
+

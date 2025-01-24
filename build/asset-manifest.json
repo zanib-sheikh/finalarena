@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3ab21c4.css",
+    "main.js": "/static/js/main.65ceeb68.js",
+    "static/js/488.b5fb6f0b.chunk.js": "/static/js/488.b5fb6f0b.chunk.js",
+    "static/media/feature.png": "/static/media/feature.d6247e80fc8430650587.png",
+    "static/media/logoa.png": "/static/media/logoa.922613ff485171a86678.png",
+    "static/media/loogoo.jpg": "/static/media/loogoo.d84656b52a8c08aeab43.jpg",
+    "static/media/OBJECT.png": "/static/media/OBJECT.7d529eedaf926b080acd.png",
+    "static/media/phone.png": "/static/media/phone.066e22e12f92434cca27.png",
+    "static/media/Groupp.png": "/static/media/Groupp.af0670289445b4eb59b4.png",
+    "static/media/arenalogo.png": "/static/media/arenalogo.688b2d959bd0cd8b4ebd.png",
+    "static/media/card.jpg": "/static/media/card.320985562750b463b62a.jpg",
+    "static/media/trophy.jpeg": "/static/media/trophy.72750cfcce1c9b4cc3ba.jpeg",
+    "static/media/play.jpg": "/static/media/play.b3978e3b40854d0ac9e6.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c3ab21c4.css.map": "/static/css/main.c3ab21c4.css.map",
+    "main.65ceeb68.js.map": "/static/js/main.65ceeb68.js.map",
+    "488.b5fb6f0b.chunk.js.map": "/static/js/488.b5fb6f0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3ab21c4.css",
+    "static/js/main.65ceeb68.js"
+  ]
+}
